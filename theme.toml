@@ -1,31 +1,30 @@
-name = 'Theme name'
+name = 'NYA10 HUGO THEME'
 license = 'MIT'
 licenselink = 'https://github.com/owner/repo/LICENSE'
-description = 'Theme description'
+description = 'SIMPLE KAWAII THEME'
 
 # The home page of the theme, where the source can be found
-homepage = 'https://github.com/owner/repo'
+homepage = 'https://github.com/nullnyat/nya10-hugotheme'
 
 # If you have a running demo of the theme
-demosite = 'https://owner.github.io/repo'
+demosite = 'https://nya10-hugotheme-demo.nca10.moe'
 
 # Taxonomy terms
-tags = ['blog', 'company']
+tags = ['blog', "personal"]
 features = ['some', 'awesome', 'features']
 
 # If the theme has multiple authors
 authors = [
-  {name = 'Name of author', homepage = 'Website of author'},
-  {name = 'Name of author', homepage = 'Website of author'}
+  {name = 'nullnyat', homepage = 'nullnyat.nca10.moe'}
 ]
 
 # If the theme has a single author
 [author]
-  name = 'Your name'
-  homepage = 'Your website'
+  name = 'nullnyat'
+  homepage = 'nullnyat.nca10.moe'
 
 # If porting an existing theme
 [original]
-  author = 'Name of original author'
-  homepage = 'Website of original author'
-  repo = 'https://github.com/owner/repo'
+  author = 'nullnyat'
+  homepage = 'nullnyat.nca10.moe'
+  repo = 'https://github.com/nullnyat/nya10-hugotheme'
